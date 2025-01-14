@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaggarDev
+- 👋 Wassup, I’m Haggard
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning game development
 
