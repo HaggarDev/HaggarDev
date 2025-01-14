@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaggarDev
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning game developement
+- 🌱 I’m currently learning game development
 
 <!---
 HaggarDev/HaggarDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
